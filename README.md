@@ -1,6 +1,6 @@
 # django channels simple example
 
-### Perfect for Reactive Programming
+### Perfect for Real Time Web Apps
 
-[Read the blog post here](http://devarea.com/django-simple-channels-example/)
+[Based on the blog post here](http://devarea.com/django-simple-channels-example/)
 
