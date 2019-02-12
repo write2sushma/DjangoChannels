@@ -7,7 +7,7 @@ Automat==0.7.0
 channels==0.17.3
 constantly==15.1.0
 daphne==0.15.0
-Django==1.10.4
+Django
 incremental==17.5.0
 msgpack-python==0.5.6
 redis==3.0.1
